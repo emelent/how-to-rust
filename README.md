@@ -1,5 +1,5 @@
 # how-to-rust
-learning rust
+learning rust from [The Rust Book](https://doc.rust-lang.org/book/)
 
 #### basics
   - get your vars
