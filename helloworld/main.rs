@@ -1,4 +1,9 @@
 fn main(){
-    println!("Hello world!");
-    println!("Hello again, world!");
+    let mut counter = 0;
+    
+    let result = loop {
+        counter += 1
+            
+        
+    }
 }
